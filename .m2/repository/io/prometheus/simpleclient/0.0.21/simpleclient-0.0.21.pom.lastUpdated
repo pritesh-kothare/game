@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:23:25 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597005407
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597005416
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact io.prometheus\:simpleclient\:pom\:0.0.21 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/io/prometheus/simpleclient/0.0.21/simpleclient-0.0.21.pom, status\: 401 Unauthorized

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:24:53 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597093755
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597093763
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact junit\:junit\:pom\:4.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/junit/junit/4.0/junit-4.0.pom, status\: 401 Unauthorized

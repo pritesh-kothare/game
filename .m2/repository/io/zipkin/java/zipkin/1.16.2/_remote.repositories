@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:23:26 UTC 2025
+zipkin-1.16.2-tests.jar>central=
+zipkin-1.16.2.jar>central=
+zipkin-1.16.2.pom>central=

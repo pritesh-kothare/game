@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:25:34 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597134270
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597134276
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.eclipse.aether\:aether-api\:pom\:1.0.2.v20150114 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.pom, status\: 401 Unauthorized

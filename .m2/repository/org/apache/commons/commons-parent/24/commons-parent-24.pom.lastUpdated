@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:25:33 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597133360
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597133374
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:24 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/apache/commons/commons-parent/24/commons-parent-24.pom, status\: 401 Unauthorized

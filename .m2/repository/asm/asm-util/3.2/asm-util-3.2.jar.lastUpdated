@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:25:35 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597134954
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597135141
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact asm\:asm-util\:jar\:3.2 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/asm/asm-util/3.2/asm-util-3.2.jar, status\: 401 Unauthorized

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:23:26 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597006169
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597006589
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact javax.validation\:validation-api\:jar\:1.1.0.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar, status\: 401 Unauthorized

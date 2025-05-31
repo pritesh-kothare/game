@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 09:24:51 UTC 2025
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597091082
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748597091341
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact net.java.dev.jna\:jna-platform\:jar\:4.0.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/net/java/dev/jna/jna-platform/4.0.0/jna-platform-4.0.0.jar, status\: 401 Unauthorized
