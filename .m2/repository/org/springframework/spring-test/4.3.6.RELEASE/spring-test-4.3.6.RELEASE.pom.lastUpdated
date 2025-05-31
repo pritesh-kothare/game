@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri May 30 09:23:25 UTC 2025
-@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597005817
-https\://repo.maven.apache.org/maven2/.lastUpdated=1748597005826
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework\:spring-test\:pom\:4.3.6.RELEASE from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE.pom, status\: 401 Unauthorized

@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri May 30 09:24:53 UTC 2025
-@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597093881
-https\://repo.maven.apache.org/maven2/.lastUpdated=1748597093890
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.easytesting\:fest-util\:pom\:1.1.6 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.pom, status\: 401 Unauthorized

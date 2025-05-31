@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri May 30 09:23:25 UTC 2025
-@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1748597005833
-https\://repo.maven.apache.org/maven2/.lastUpdated=1748597005842
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact de.flapdoodle.embed\:de.flapdoodle.embed.mongo\:pom\:1.50.5 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/de/flapdoodle/embed/de.flapdoodle.embed.mongo/1.50.5/de.flapdoodle.embed.mongo-1.50.5.pom, status\: 401 Unauthorized
